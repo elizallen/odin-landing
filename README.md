@@ -1,2 +1,3 @@
 # odin-landing
-Landing Page: Odin Foundations
+Project: Landing Page (The Odin Project)
+Awesome website with awesome information.
