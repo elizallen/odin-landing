@@ -20,6 +20,24 @@ img {
     color: white;
 }
 
+.contenttwo {
+
+}
+
+.randpic {
+    display: flex;
+}
+
+.randpic > div > img {
+    border: 4px solid blue;
+    border-radius: 4px;
+}
+
+.text {
+    text-align: center;
+    word-wrap: normal;
+}
+
 .contentthree {
     background: #e5e7eb;
     font-size: 36px;
