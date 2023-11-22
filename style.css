@@ -9,10 +9,12 @@ body {
 
 }
 
+/* Need to make the image sizes different in different divisions.
 img {
     width: 150px;
     height: 150px;
 }
+*/
 
 ul {
     /*pulled from 02 assignment - to remove dots*/
@@ -65,19 +67,16 @@ a:link {
     font-weight: bold;
 }
 
-
-
 .contentone {
     background: #1F2937;
     color: white;
     padding-left: 50px;
-}
-
-.randpic {
     display: flex;
 }
 
-.randpic > div > img {
+.twopictures > img {
+    width: 150px;
+    height: 150px;
     border: 4px solid blue;
     border-radius: 4px;
 }
